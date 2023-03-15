@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  kcHerosMulti
+
+  Created by Marta Maquedano on 15/3/23.
+  
+*/
+//Terminado siempre en puntoo y coma porque viene de objc
+"Test" = "Test ESP";
